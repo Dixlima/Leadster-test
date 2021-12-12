@@ -1,3 +1,57 @@
+# Leadster-Test
+
+
+
+> Pagina de album de fotos para teste de processo seletivo
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente de `<React>`
+* Você tem uma máquina `<Windows / Linux / Mac>`.
+
+
+## 🚀 Instalando <nome_do_projeto>
+
+Para instalar o <Leadster-test>, siga estas etapas:
+
+Linux e macOS:
+```
+<NPM Install; Yarn>
+```
+
+Windows:
+```
+<NPM Install>
+```
+
+## ☕ Usando <Leadster-test>
+
+Para usar <Leadster-test>, siga estas etapas:
+
+  Após intalação da aplicação no terminal, iniciar com "NPM Start"
+
+
+
+[⬆ Voltar ao topo](#Leadster-test)<br>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
