@@ -12,7 +12,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando <Leadster-test>
 
 Para instalar o <Leadster-test>, siga estas etapas:
 
